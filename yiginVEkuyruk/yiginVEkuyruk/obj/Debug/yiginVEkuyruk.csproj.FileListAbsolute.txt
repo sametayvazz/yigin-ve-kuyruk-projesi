@@ -1,0 +1,10 @@
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\bin\Debug\yiginVEkuyruk.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\bin\Debug\yiginVEkuyruk.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\bin\Debug\yiginVEkuyruk.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\yiginVEkuyruk\yiginVEkuyruk\obj\Debug\yiginVEkuyruk.pdb
